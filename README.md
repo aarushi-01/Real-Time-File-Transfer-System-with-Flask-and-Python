@@ -1,1 +1,2 @@
 # Real-Time-File-Transfer-System-with-Flask-and-Python
+This project implements a simple file transfer system using Flask and Python. The server, built with Flask, provides an endpoint for clients to upload files via HTTP POST requests. The client script, written in Python, utilizes the requests module to periodically send a file to the server. The tech stack includes Flask for the server-side framework and Python for scripting. One notable feature is the automatic file transfer every minute, ensuring the real-time updating of the existing file.
